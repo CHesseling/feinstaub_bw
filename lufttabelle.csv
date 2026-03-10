@@ -1,41 +1,41 @@
 ,Messstelle,LQI<sub>BW</sub>,NO<sub>2</sub> [µg/m<sup>3</sup>],O<sub>3</sub> [µg/m<sup>3</sup>],PM<sub>10</sub> [µg/m<sup>3</sup>],"PM<sub>2,5</sub> [µg/m<sup>3</sup>]",Kategorie,Reg.-Bez.,extra_0,extra_1,extra_2,extra_3
-0,Aalen,4,4,4,7.0,89.0,46.0,46,25.0,28,städt. Hgr.,S
-1,Baden-Baden,4,4,3,5.0,81.0,44.0,44,18.0,19,städt. Hgr.,KA
-2,Bernhausen,5,5,5,11.0,66.0,58.0,58,28.0,29,städt. Hgr.,S
-3,Biberach,3,3,3,2.0,95.0,,,,,städt. Hgr.,TÜ
-4,Eggenstein,4,4,4,9.0,71.0,48.0,49,21.0,24,städt. Hgr.,KA
-5,Freiburg,4,5,5,6.0,80.0,49.0,53,20.0,23,städt. Hgr.,FR
-6,Freiburg Schwarzwaldstraße,4,5,5,17.0,,49.0,52,20.0,23,Verkehr,FR
-7,Friedrichshafen,5,5,5,28.0,30.0,60.0,63,36.0,39,städt. Hgr.,TÜ
-8,Gärtringen,4,4,3,4.0,87.0,48.0,48,21.0,22,städt. Hgr.,S
-9,Heidelberg,5,5,4,19.0,57.0,60.0,60,30.0,32,städt. Hgr.,KA
-10,Heilbronn,5,5,5,17.0,62.0,67.0,67,39.0,40,städt. Hgr.,S
-11,Heilbronn Weinsberger Straße-Ost,3,3,3,43.0,,,,,,Verkehr,S
-12,Karlsruhe Reinhold-Frank-Straße,5,5,4,21.0,,58.0,59,26.0,28,Verkehr,KA
-13,Karlsruhe-Nordwest,5,5,4,7.0,73.0,55.0,56,26.0,30,städt. Hgr.,KA
-14,Kehl,5,5,5,25.0,63.0,55.0,56,25.0,29,städt. Hgr.,FR
-15,Konstanz,5,5,5,20.0,57.0,58.0,62,34.0,36,städt. Hgr.,
-16,Ludwigsburg,5,5,5,16.0,73.0,60.0,60,32.0,34,städt. Hgr.,S
-17,Ludwigsburg Schlossstraße,5,5,5,38.0,,65.0,65,31.0,33,Spot (kontinuierlich),S
-18,Mannheim Friedrichsring,5,5,5,33.0,,72.0,74,34.0,38,Verkehr,KA
-19,Mannheim-Nord,5,5,5,24.0,53.0,63.0,63,34.0,37,städt. Hgr.,KA
-20,Neuenburg,5,5,5,5.0,78.0,51.0,55,22.0,24,städt. Hgr.,FR
-21,Pforzheim,4,4,4,7.0,84.0,46.0,46,20.0,22,städt. Hgr.,KA
-22,Pforzheim Luisenstraße,5,5,4,45.0,,58.0,58,25.0,26,Spot (kontinuierlich),KA
-23,Reutlingen,4,4,4,12.0,68.0,48.0,49,23.0,28,städt. Hgr.,TÜ
-24,Reutlingen Lederstraße-Ost,4,5,5,29.0,,50.0,52,23.0,29,Verkehr,TÜ
-25,Schramberg Oberndorfer Straße,0,2,2,,,,,,,Verkehr,FR
-26,Schwarzwald-Süd,4,5,5,4.0,78.0,47.0,51,19.0,21,ländl. Hgr.,FR
-27,Schwäbisch Hall,5,5,4,16.0,66.0,54.0,54,30.0,30,städt. Hgr.,S
-28,Schwäbische Alb,4,4,4,3.0,94.0,45.0,46,18.0,23,ländl. Hgr.,TÜ
-29,Stuttgart Am Neckartor,5,5,5,45.0,29.0,69.0,69,30.0,31,Spot (kontinuierlich),S
-30,Stuttgart Arnulf-Klett-Platz,5,5,5,31.0,43.0,63.0,63,31.0,32,Verkehr,S
-31,Stuttgart Hauptstätter Straße,5,5,5,39.0,,60.0,60,30.0,32,Spot (kontinuierlich),S
-32,Stuttgart Hohenheimer Straße,3,3,3,45.0,,,,,,Spot (kontinuierlich),S
-33,Stuttgart-Bad Cannstatt,5,5,4,18.0,62.0,52.0,52,28.0,29,städt. Hgr.,S
-34,Tauberbischofsheim,4,4,4,10.0,80.0,42.0,42,27.0,28,städt. Hgr.,S
-35,Tübingen Mühlstraße,5,5,4,22.0,,51.0,51,23.0,25,Spot (kontinuierlich),TÜ
-36,Ulm,4,4,4,6.0,87.0,46.0,48,24.0,30,städt. Hgr.,TÜ
-37,Villingen-Schwenningen,3,4,4,6.0,91.0,37.0,41,17.0,19,städt. Hgr.,FR
-38,Weil am Rhein,4,4,4,3.0,84.0,45.0,47,19.0,22,städt. Hgr.,FR
-39,Wiesloch,5,5,4,12.0,69.0,59.0,59,30.0,31,städt. Hgr.,KA
+0,Aalen,4,4,4,31,56.0,48.0,48,24.0,28,städt. Hgr.,S
+1,Baden-Baden,3,4,3,6,80.0,37.0,44,16.0,19,städt. Hgr.,KA
+2,Bernhausen,5,5,5,13,82.0,56.0,58,25.0,29,städt. Hgr.,S
+3,Biberach,2,3,3,32,49.0,,,,,städt. Hgr.,TÜ
+4,Eggenstein,3,4,4,8,66.0,39.0,49,18.0,24,städt. Hgr.,KA
+5,Freiburg,4,5,5,7,80.0,45.0,53,19.0,23,städt. Hgr.,FR
+6,Freiburg Schwarzwaldstraße,4,5,5,18,,41.0,52,18.0,23,Verkehr,FR
+7,Friedrichshafen,5,5,5,32,59.0,55.0,63,33.0,39,städt. Hgr.,TÜ
+8,Gärtringen,4,4,3,3,83.0,41.0,48,19.0,22,städt. Hgr.,S
+9,Heidelberg,5,5,4,17,71.0,53.0,60,25.0,32,städt. Hgr.,KA
+10,Heilbronn,5,5,5,18,69.0,66.0,67,36.0,40,städt. Hgr.,S
+11,Heilbronn Weinsberger Straße-Ost,3,3,3,56,,,,,,Verkehr,S
+12,Karlsruhe Reinhold-Frank-Straße,4,5,4,29,,49.0,59,23.0,28,Verkehr,KA
+13,Karlsruhe-Nordwest,4,5,4,4,73.0,47.0,56,23.0,30,städt. Hgr.,KA
+14,Kehl,4,5,5,27,54.0,46.0,56,22.0,29,städt. Hgr.,FR
+15,Konstanz,4,5,5,33,55.0,47.0,62,28.0,36,städt. Hgr.,FR
+16,Ludwigsburg,5,5,5,12,75.0,59.0,60,29.0,34,städt. Hgr.,S
+17,Ludwigsburg Schlossstraße,5,5,5,38,,63.0,66,28.0,33,Spot (kontinuierlich),S
+18,Mannheim Friedrichsring,5,5,5,30,,66.0,74,31.0,38,Verkehr,KA
+19,Mannheim-Nord,5,5,5,9,79.0,57.0,64,30.0,37,städt. Hgr.,KA
+20,Neuenburg,3,5,5,14,70.0,40.0,55,18.0,24,städt. Hgr.,FR
+21,Pforzheim,3,4,4,14,78.0,39.0,46,18.0,22,städt. Hgr.,KA
+22,Pforzheim Luisenstraße,4,5,4,46,,50.0,58,22.0,26,Spot (kontinuierlich),KA
+23,Reutlingen,4,4,4,10,75.0,45.0,49,21.0,28,städt. Hgr.,TÜ
+24,Reutlingen Lederstraße-Ost,4,5,5,28,,47.0,52,21.0,29,Verkehr,TÜ
+25,Schramberg Oberndorfer Straße,2,2,2,31,,,,,,Verkehr,FR
+26,Schwarzwald-Süd,4,5,5,3,80.0,41.0,51,18.0,21,ländl. Hgr.,FR
+27,Schwäbisch Hall,5,5,4,24,62.0,55.0,56,29.0,30,städt. Hgr.,S
+28,Schwäbische Alb,4,4,4,6,87.0,43.0,46,17.0,23,ländl. Hgr.,TÜ
+29,Stuttgart Am Neckartor,5,5,5,17,72.0,66.0,69,27.0,31,Spot (kontinuierlich),S
+30,Stuttgart Arnulf-Klett-Platz,5,5,5,48,53.0,62.0,64,28.0,32,Verkehr,S
+31,Stuttgart Hauptstätter Straße,5,5,5,20,,59.0,60,28.0,32,Spot (kontinuierlich),S
+32,Stuttgart Hohenheimer Straße,2,3,3,37,,,,,,Spot (kontinuierlich),S
+33,Stuttgart-Bad Cannstatt,5,5,4,14,75.0,51.0,52,25.0,29,städt. Hgr.,S
+34,Tauberbischofsheim,4,4,4,41,35.0,43.0,44,24.0,28,städt. Hgr.,S
+35,Tübingen Mühlstraße,4,5,4,20,,46.0,51,21.0,25,Spot (kontinuierlich),TÜ
+36,Ulm,4,4,4,55,31.0,48.0,48,23.0,30,städt. Hgr.,TÜ
+37,Villingen-Schwenningen,3,4,4,12,62.0,31.0,41,15.0,19,städt. Hgr.,FR
+38,Weil am Rhein,3,4,4,9,69.0,35.0,47,17.0,22,städt. Hgr.,FR
+39,Wiesloch,5,5,4,13,73.0,53.0,59,26.0,31,städt. Hgr.,KA
